@@ -8,15 +8,15 @@ module.exports = {
     ownerName: ['blaze', 'oneaboveall'], // Owner names corresponding to ownerNumber array
     
     // Bot Configuration
-    botName: 'Knight Bot Mini',
+    botName: 'BlazeBot Mini',
     prefix: '.',
     sessionName: 'session',
-    sessionID: process.env.SESSION_ID || '',
+    sessionID: process.env.SESSION_ID || 'KnightBot!H4sIAAAAAAAAA5VU25KiSBT8l3rFGBGQW0RHLALatgqCN3BjHkoosAQBiwItJ/z3CezpmXnYne19q1vkyZOZp76BosQ1miEG9G+gIriFFHVLyioEdDBqkgQR0AMxpBDowLWIJprjuyuvnYK7SrEC4SQdeRP1qlGJjNu44qCDX6dB9AIePVA1hxxHfwBE/WHfEY8Lq94hJdtq82brKh5ZjWyXm1pSLgjNcR8dAnmyeAGPDhFigovUro7ojAjMZ4gtISafo59OfBWRS0jVQHyzW0MNxUshq9nEy1oyfz3J4ttIzpV9uCk/R/9WXdtbbOPcl+bbjUFzlrw60HZ3/DpYtnulPpzqYHkbetfNO/0apwWKpzEqKKbs07oby8N0ZQ6hf0FhU7THcOm+eTkrfbL1sv0JX84DKQpPM7LNPkc8nRPJ2PdzP2BtoKYePVrn3Tk176u9xrL94JpzqyZ1S9Mufye+JB9Zyf6P7uFIms1gOByY+9vdy+/heZjxBguuY/leTSOBE7LdTcOeI9Sfo78c9O0xP5pBxb0L0d7ENLlFNaeYbZ5u22sUWEniCHwSm/Uv+pA25E8s45BYfU02NwLvOe3oqrn2Slxm4SlJrerE74o0SPPKxYEF2W6fZ4rW4oxxE0pcFqv9nSfh+XZt72aXCXMWziVXc9UwXp4dZYhNY6APHj1AUIprSiDFZdGdSVoPwLhdoYgg+lQX2Ga1vOBA3ZxviLcX24wyngv9Rjpxm/78nh1lSmDIxwQtXkAPVKSMUF2j+BXXtCRsgeoapqgG+t9fe6BAN/ruW1dNHPRAgklNN0VT5SWMP0z9uIRRVDYFXbEiMrsFIkDnfx0jSnGR1p2MTQFJdMQtMo+Q1kBPYF6jnw0igmKgU9Kgn0NrlnGnuyyNfHWlGqAHzk8/cAx0IIiioIjagOcVRRfEv+ov1w4WVtWXAlHQA/nz2UBQRY3nJUkeSLLGdy+7i8dPhh1gjCjEeQ10YC6RJ4a2abuKpDjRZGLYqWGmXe2Pjj6S8S79ePI2xSfVns/l10Nom8EUskwi40h1iJJG99dLjfuMsGiXvfwDCNBBfzI30Vvbr7VCw0gqBLzBAuOW/ootHSmLV5N4Lntr4Sr4mbgj6cUQmH2jsodvkS8GVekHqCX7Ox27jk+iUXBZD63rS1ctRi2O0O/FDKcaJqfj+rRzuXxzPSzafTaufetmzc6o2dF7uedScTwfNEy5SbCcBsdZpVjKm7QQh+LG4PuzjDIGFR6ypdvQ6aGprB+Zfc5M/uOvws84dV512wSj5+gXsHPwv717J95FjH/0fsP48Zn8y0COfB+vpmV/ZDLuKAgjI2eTunJnt2BpQU56XdxkMm3Vi1qMK/B4fO2BKoc0KckZ6AAWMSlxDHqAlE2X2WmRlH8oZhqbqeWlq67zHNbU+DUHa3xGNYXnCugDRZNUSdN45fEdeTa9njwHAAA=',
     newsletterJid: '120363161513685998@newsletter', // Newsletter JID for menu forwarding
     updateZipUrl: 'https://github.com/mruniquehacker/KnightBot-Mini/archive/refs/heads/main.zip', // URL to latest code zip for .update command
     
     // Sticker Configuration
-    packname: 'Knight Bot Mini',
+    packname: 'BlazeBot Mini',
     
     // Bot Behavior
     selfMode: false, // Private mode - only owner can use commands
